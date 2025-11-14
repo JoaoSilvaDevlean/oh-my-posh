@@ -168,8 +168,7 @@
     {
       "segments": [
         {
-          "alignment": "right",
-          "newline": false,
+          "alignment": "right",     
           "type": "prompt",
           "segments": [
             {
