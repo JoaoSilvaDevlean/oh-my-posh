@@ -168,17 +168,11 @@
     {
       "segments": [
         {
-          "alignment": "right",     
-          "type": "prompt",
-          "segments": [
-            {
               "type": "dotnet",
               "style": "powerline",
               "foreground": "#008DF1",
               "background": "#1A191F",
-              "template": "<i>  {{ .Full }} </i>"
-            }
-          ]
+              "template": "<i>  {{ .Full }} </i>"     
         },
         {
           "background": "#0077c2",
