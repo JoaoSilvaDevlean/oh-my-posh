@@ -168,6 +168,20 @@
     {
       "segments": [
         {
+          "alignment": "right",
+          "newline": false,
+          "type": "prompt",
+          "segments": [
+            {
+              "type": "dotnet",
+              "style": "powerline",
+              "foreground": "#008DF1",
+              "background": "#1A191F",
+              "template": "<i>  {{ .Full }} </i>"
+            }
+          ]
+        },
+        {
           "background": "#0077c2",
           "foreground": "#ffffff",
           "style": "plain",
@@ -218,20 +232,6 @@
         }
       ],
       "type": "rprompt"
-    },
-     {
-      "alignment": "right",
-      "newline": false,
-      "type": "prompt",
-      "segments": [
-        {
-          "type": "dotnet",
-          "style": "powerline",
-          "foreground": "#008DF1",
-          "background": "#1A191F",
-          "template": "<i>  {{ .Full }} </i>"
-        }
-      ]
     }
   ],
   "console_title_template": "{{ .Shell }} in {{ .Folder }}",
