@@ -171,7 +171,7 @@
               "type": "dotnet",
               "style": "powerline",
               "foreground": "#008DF1",
-              "background": "#1A191F",
+              "background": "#9D00FF",
               "template": " \ue706 {{ .Full }} " 
         },
         {
