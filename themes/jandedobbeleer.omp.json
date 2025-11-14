@@ -181,7 +181,7 @@
             "background": "#9D00FF",
             "invert_powerline": true,
             "powerline_symbol": "\ue0b2",
-            "template": " \ue706 {{ .Full }} <transparent,#9D00FF>\ue0b2</>" 
+            "template": " \ue706 {{ .Full }} " 
         },
         {
           "background": "#1BD760",
