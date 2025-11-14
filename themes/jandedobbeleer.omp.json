@@ -180,7 +180,7 @@
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "style": "powerline",
-          "template": " \uf489 {{ .Name }} ",
+          "template": " \uf489 {{ .Name }}\uf295 ",
           "type": "shell"
         },
         {
