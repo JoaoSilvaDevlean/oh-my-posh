@@ -175,11 +175,13 @@
           "type": "shell"
         },
         {
-              "type": "dotnet",
-              "style": "plain",
-              "foreground": "#ffffff",
-              "background": "#9D00FF",
-              "template": " \ue706 {{ .Full }} " 
+            "type": "dotnet",
+            "style": "powerline",
+            "foreground": "#ffffff",
+            "background": "#9D00FF",
+            "invert_powerline": true,
+            "powerline_symbol": "\ue0b2",
+            "template": " \ue706 {{ .Full }} " 
         },
         {
           "background": "#1BD760",
