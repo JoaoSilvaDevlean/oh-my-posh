@@ -172,7 +172,7 @@
               "style": "plain",
               "foreground": "#ffffff",
               "background": "#9D00FF",
-              "template": "<#0077c2,transparent>\ue0b6</> \ue706 {{ .Full }} <transparent,#0077c2>\ue0b2</>" 
+              "template": "<#9D00FF,transparent>\ue0b6</> \ue706 {{ .Full }} <transparent,#9D00FF>\ue0b2</>" 
         },
         {
           "background": "#0077c2",
