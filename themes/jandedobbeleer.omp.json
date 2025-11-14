@@ -168,19 +168,10 @@
     {
       "segments": [
         {
-              "type": "dotnet",
-              "style": "plain",
-              "foreground": "#ffffff",
-              "background": "#9D00FF",
-              "template": "<#9D00FF,transparent>\ue0b6</> \ue706 {{ .Full }} <transparent,#9D00FF>\ue0b2</>" 
-        },
-        {
           "background": "#0077c2",
           "foreground": "#ffffff",
-          "invert_powerline": true,
-          "powerline_symbol": "\ue0b2",
-          "style": "powerline",
-          "template": " \uf489 {{ .Name }} ",
+          "style": "plain",
+          "template": "<#0077c2,transparent>\ue0b6</> \uf489 {{ .Name }} <transparent,#0077c2>\ue0b2</>",
           "type": "shell"
         },
         {
