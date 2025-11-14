@@ -172,7 +172,7 @@
               "style": "powerline",
               "foreground": "#008DF1",
               "background": "#1A191F",
-              "template": "<i>  {{ .Full }} </i>"     
+              "template": " \uE70B {{ .Full }} "   
         },
         {
           "background": "#0077c2",
