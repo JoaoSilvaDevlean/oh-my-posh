@@ -169,7 +169,7 @@
       "segments": [
         {
               "type": "dotnet",
-              "style": "powerline",
+              "style": "plain",
               "foreground": "#ffffff",
               "background": "#9D00FF",
               "template": " \ue706 {{ .Full }} " 
